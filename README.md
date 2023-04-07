@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jayantbhoj
 - 👀 I’m interested in ... tech
-- 🌱 I’m currently learning ... web dev
+- 🌱 I’m currently learning ... c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
