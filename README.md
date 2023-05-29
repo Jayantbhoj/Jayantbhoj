@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jayantbhoj
-- 👀 I’m interested in ... tech
+- 👀 I’m interested in ... opensource, computer vision, image procesessing, machine learning and development.
 - 🌱 I’m currently learning ... c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
