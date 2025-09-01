@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Archiore](https://archiore.com/)
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **React Native and AI Agents**
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
